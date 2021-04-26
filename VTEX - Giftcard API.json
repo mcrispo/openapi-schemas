@@ -111,7 +111,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -205,7 +205,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -336,7 +336,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -451,7 +451,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -624,7 +624,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -722,7 +722,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -820,7 +820,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -917,7 +917,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -1037,7 +1037,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -1134,7 +1134,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -1254,7 +1254,7 @@
             "200": {
               "description": "",
               "headers": {
-                
+
               },
               "content": {
                 "application/json": {
@@ -1292,7 +1292,7 @@
               "default": "insert example here"
             },
             "expiringDate": {
-              "type": "string", 
+              "type": "string",
               "default": "2020-09-01T13:15:30Z"
             },
             "caption": {
@@ -2326,10 +2326,10 @@
     "security": [
       {
         "appKey": [
-          
+
         ],
         "appToken": [
-          
+
         ]
       }
     ],
